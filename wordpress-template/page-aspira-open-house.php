@@ -74,9 +74,6 @@ get_header();
                             See our <a href="https://www.aspiralife.ca/legals/privacy-policy/">privacy policy</a> for details.
                         </span>
                     </label>
-                    <p class="captcha-note">
-                        This form would be protected by reCAPTCHA in production to reduce spam and protect lead data.
-                    </p>
                     <button class="btn btn-submit" type="submit">RSVP for the Open House</button>
                     <p class="form-note">Prefer to talk? Call <a href="tel:18669594848">1-866-959-4848</a>.</p>
                     <p class="success-message" role="status" aria-live="polite"></p>
@@ -112,8 +109,8 @@ get_header();
                 <p class="eyebrow">Why attend</p>
                 <h2 id="expect-title">A better visit starts with the questions families actually have.</h2>
                 <p>
-                    The redesigned page reframes the event around high-intent visitor needs: seeing the suites,
-                    understanding care options, getting a feel for daily life, and leaving with a clear next step.
+                    Explore the spaces, learn about available support, experience the community,
+                    and leave with clear answers for your next step.
                 </p>
                 <div class="benefits">
                     <article>

@@ -6,7 +6,7 @@ form?.addEventListener("submit", (event) => {
   event.preventDefault();
   const message = form.querySelector(".success-message");
   if (message) {
-    message.textContent = "Thank you. Your RSVP details are ready to send to the Aspira team.";
+    message.textContent = "Thank you. An Aspira team member will follow up to confirm your visit.";
   }
   form.reset();
 });
