@@ -135,7 +135,7 @@ get_header();
                     <img src="<?php echo esc_url($theme_uri . '/assets/open-house-social.jpg'); ?>" alt="Aspira National Open House spring campaign graphic">
                     <img src="<?php echo esc_url($theme_uri . '/assets/open-house-graphic.jpg'); ?>" alt="Spring Open House tabletop campaign image">
                 </div>
-                <figcaption>Official campaign visuals retained as supporting event recognition.</figcaption>
+                <figcaption>Spring is on at Aspira. Come experience the community in person.</figcaption>
             </figure>
         </div>
     </section>
@@ -145,10 +145,7 @@ get_header();
             <div class="section-heading">
                 <p class="eyebrow">Find your residence</p>
                 <h2 id="locations-title">Choose a nearby Aspira community.</h2>
-                <p>
-                    The live page links visitors to a full location finder. This prototype brings a searchable
-                    preview onto the landing page to reduce friction before RSVP.
-                </p>
+                <p>Search for a nearby Aspira residence and choose where you would like to visit.</p>
             </div>
             <div class="location-tool">
                 <label class="search-label" for="location-search">Search by city or residence</label>
