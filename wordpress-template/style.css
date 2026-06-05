@@ -1,0 +1,14 @@
+/*
+Theme Name: Aspira Open House Prototype
+Theme URI: https://www.aspiralife.ca/
+Description: WordPress-ready theme template structure for the Aspira National Open House case study.
+Author: Hetvi Shukla
+Version: 1.0.0
+Text Domain: aspira-open-house
+*/
+
+/*
+This file exists so WordPress can recognize the theme/template folder.
+The page-specific CSS is intentionally kept in assets/aspira-open-house.css
+to make maintenance and campaign reuse easier.
+*/
